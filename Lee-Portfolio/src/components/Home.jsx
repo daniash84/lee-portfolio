@@ -15,9 +15,9 @@ const Home = () => {
           I'm a Full Stack Web Developer
         </h2>
         <p className="text-gray-500 py-4 max-w-md">
-           I have 4 years of experience in graphics design and web development.
-          Currently, I love to work on web application using technologies like
-          React, Tailwind, Next.js and Mongodb.
+           I just graduated with my Full Stack Software Development certification.
+          Currently, I am looking for opportunities to hone my skills. I love to work on web application for you! Let me know how we can make something amazing!
+          .
         </p>
         <div>
           <Link
